@@ -1,5 +1,5 @@
 # hello-world
 just another repository
 
-My name is parteek sharma
+My name is parteek sharma.
 
